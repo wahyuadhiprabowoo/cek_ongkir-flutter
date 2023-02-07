@@ -1,0 +1,4 @@
+model memudahkan untuk mengambil data dari api
+generate model
+get generate model on home with assets/models/province.json --skipProvider //skip karena udh adaa http
+
